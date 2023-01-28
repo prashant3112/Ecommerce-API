@@ -1,6 +1,6 @@
 # Ecommerce-API
 
-How to use
+#How to use
 
 
 • Post request (/products/create).
@@ -12,7 +12,8 @@ How to use
 • delete request (/products/id).
 
 
-Folder Structure
+#Folder Structure
+
 • Entry point : index.js.
 
 • config : Contains configuration files of Mongoose.
